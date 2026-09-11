@@ -1,0 +1,177 @@
+{
+  "event_id": "demo",
+  "event_name": "Practice arena",
+  "source_url": "https://www.hltv.org/fantasy",
+  "observed_at": "2026-09-10T00:00:00Z",
+  "lock_at": null,
+  "is_demo": true,
+  "rules_verified": false,
+  "projection_method": "Fictional fixed projections to demonstrate constrained lineup optimization. Not an HLTV scoring model.",
+  "rules": {
+    "budget": 1000000,
+    "roster_size": 5,
+    "max_per_team": 2
+  },
+  "players": [
+    {
+      "id": "nova",
+      "name": "nova",
+      "team": "Orbit",
+      "price": 232000,
+      "projected_points": 84.5,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "pulse",
+      "name": "pulse",
+      "team": "Orbit",
+      "price": 213000,
+      "projected_points": 70.2,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "drift",
+      "name": "drift",
+      "team": "Orbit",
+      "price": 196000,
+      "projected_points": 55.8,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "echo",
+      "name": "echo",
+      "team": "Orbit",
+      "price": 180000,
+      "projected_points": 39.4,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "flux",
+      "name": "flux",
+      "team": "Orbit",
+      "price": 165000,
+      "projected_points": 28.3,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "axis",
+      "name": "axis",
+      "team": "Vector",
+      "price": 234000,
+      "projected_points": 87.5,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "vex",
+      "name": "vex",
+      "team": "Vector",
+      "price": 215000,
+      "projected_points": 73.2,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "rune",
+      "name": "rune",
+      "team": "Vector",
+      "price": 198000,
+      "projected_points": 58.8,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "bolt",
+      "name": "bolt",
+      "team": "Vector",
+      "price": 182000,
+      "projected_points": 42.4,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "kite",
+      "name": "kite",
+      "team": "Vector",
+      "price": 167000,
+      "projected_points": 31.3,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "flare",
+      "name": "flare",
+      "team": "Ember",
+      "price": 236000,
+      "projected_points": 80.5,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "ash",
+      "name": "ash",
+      "team": "Ember",
+      "price": 217000,
+      "projected_points": 66.2,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "spark",
+      "name": "spark",
+      "team": "Ember",
+      "price": 200000,
+      "projected_points": 51.8,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "cinder",
+      "name": "cinder",
+      "team": "Ember",
+      "price": 184000,
+      "projected_points": 35.4,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "glow",
+      "name": "glow",
+      "team": "Ember",
+      "price": 169000,
+      "projected_points": 24.3,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "wave",
+      "name": "wave",
+      "team": "Tidal",
+      "price": 238000,
+      "projected_points": 85.5,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "reef",
+      "name": "reef",
+      "team": "Tidal",
+      "price": 219000,
+      "projected_points": 71.2,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "surge",
+      "name": "surge",
+      "team": "Tidal",
+      "price": 202000,
+      "projected_points": 56.8,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "delta",
+      "name": "delta",
+      "team": "Tidal",
+      "price": 186000,
+      "projected_points": 40.4,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    },
+    {
+      "id": "foam",
+      "name": "foam",
+      "team": "Tidal",
+      "price": 171000,
+      "projected_points": 29.3,
+      "rationale": "Synthetic projection for testing the optimizer; not a real player statistic."
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "event_id": "demo",
+  "event_name": "Practice arena",
+  "source_url": "https://www.hltv.org/fantasy",
+  "observed_at": "2026-09-10T00:00:00Z",
+  "lock_at": null,
+  "is_demo": true,
+  "rules_verified": false,
+  "projection_method": "Calculate from fictional per-series scores, expected series, and a 30-day half-life.",
+  "rules": {
+    "budget": 1000000,
+    "roster_size": 5,
+    "max_per_team": 2
+  },
+  "players": [
+    {
+      "id": "nova",
+      "name": "nova",
+      "team": "Orbit",
+      "price": 232000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 17.125
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 21.125
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 24.125
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "pulse",
+      "name": "pulse",
+      "team": "Orbit",
+      "price": 213000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 13.55
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 17.55
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 20.55
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "drift",
+      "name": "drift",
+      "team": "Orbit",
+      "price": 196000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 9.95
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 13.95
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 16.95
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "echo",
+      "name": "echo",
+      "team": "Orbit",
+      "price": 180000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 5.85
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 9.85
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 12.85
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "flux",
+      "name": "flux",
+      "team": "Orbit",
+      "price": 165000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 3.075
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 7.075
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 10.075
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "axis",
+      "name": "axis",
+      "team": "Vector",
+      "price": 234000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 17.875
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 21.875
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 24.875
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "vex",
+      "name": "vex",
+      "team": "Vector",
+      "price": 215000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 14.3
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 18.3
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 21.3
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "rune",
+      "name": "rune",
+      "team": "Vector",
+      "price": 198000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 10.7
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 14.7
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 17.7
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "bolt",
+      "name": "bolt",
+      "team": "Vector",
+      "price": 182000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 6.6
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 10.6
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 13.6
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "kite",
+      "name": "kite",
+      "team": "Vector",
+      "price": 167000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 3.825
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 7.825
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 10.825
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "flare",
+      "name": "flare",
+      "team": "Ember",
+      "price": 236000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 16.125
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 20.125
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 23.125
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "ash",
+      "name": "ash",
+      "team": "Ember",
+      "price": 217000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 12.55
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 16.55
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 19.55
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "spark",
+      "name": "spark",
+      "team": "Ember",
+      "price": 200000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 8.95
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 12.95
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 15.95
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "cinder",
+      "name": "cinder",
+      "team": "Ember",
+      "price": 184000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 4.85
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 8.85
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 11.85
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "glow",
+      "name": "glow",
+      "team": "Ember",
+      "price": 169000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 2.075
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 6.075
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 9.075
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "wave",
+      "name": "wave",
+      "team": "Tidal",
+      "price": 238000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 17.375
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 21.375
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 24.375
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "reef",
+      "name": "reef",
+      "team": "Tidal",
+      "price": 219000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 13.8
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 17.8
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 20.8
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "surge",
+      "name": "surge",
+      "team": "Tidal",
+      "price": 202000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 10.2
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 14.2
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 17.2
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "delta",
+      "name": "delta",
+      "team": "Tidal",
+      "price": 186000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 6.1
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 10.1
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 13.1
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    },
+    {
+      "id": "foam",
+      "name": "foam",
+      "team": "Tidal",
+      "price": 171000,
+      "recent_form": {
+        "matches": [
+          {
+            "played_at": "2026-08-20T00:00:00Z",
+            "fantasy_points": 3.325
+          },
+          {
+            "played_at": "2026-09-01T00:00:00Z",
+            "fantasy_points": 7.325
+          },
+          {
+            "played_at": "2026-09-08T00:00:00Z",
+            "fantasy_points": 10.325
+          }
+        ],
+        "expected_matches": 4,
+        "half_life_days": 30,
+        "padding_points": 0
+      }
+    }
+  ]
+}

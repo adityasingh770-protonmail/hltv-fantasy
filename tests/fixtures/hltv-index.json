@@ -1,0 +1,2070 @@
+{
+  "monthlyEvents": [
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 641
+          },
+          "name": "BLAST Bounty 2026 Season 2 Finals",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 643
+          },
+          "name": "Group Stage - Esports World Cup 2026",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 644
+          },
+          "name": "Playoffs - Esports World Cup 2026",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 645
+          },
+          "name": "Group Stage - BLAST Open Porto 2026",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 648
+          },
+          "name": "Playoffs - BLAST Open Porto 2026",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 650
+          },
+          "name": "FISSURE Playground 3",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.LiveEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": []
+    },
+    {
+      "events": []
+    },
+    {
+      "events": []
+    }
+  ],
+  "nonSeasonOpenMonthlyEvents": [
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 281
+          },
+          "name": "WePlay Academy League S5 - Group Stage",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 282
+          },
+          "name": "WePlay Academy League S5 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 287
+          },
+          "name": "ESL Challenger Melbourne 2022",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 286
+          },
+          "name": "CCT Central Europe Series 1 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 291
+          },
+          "name": "Kinguin Legends 2022",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 293
+          },
+          "name": "Pelaajat Nordic Masters Fall 2022",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 294
+          },
+          "name": "TWR EE Masters Fall 2022",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 285
+          },
+          "name": "ESL Challenger League S42 EU Groups",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 305
+          },
+          "name": "ESL Challenger League Season 42 Europe Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 303
+          },
+          "name": "BLAST Premier Fall Showdown 2022 North America",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": []
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 311
+          },
+          "name": "CCT North Europe Series 2 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 313
+          },
+          "name": "CCT Central Europe Series 4 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 314
+          },
+          "name": "ESL Challenger League S43 Europe Relegation",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 315
+          },
+          "name": "Born To Be Brave 2022",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 318
+          },
+          "name": "ESL Pro League S17 Conference Europe",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 323
+          },
+          "name": "IEM Brazil 2023 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 325
+          },
+          "name": "ESL Impact Katowice 2023",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 328
+          },
+          "name": "CCT West Europe Series 1 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 331
+          },
+          "name": "CCT South Europe Series 3 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 334
+          },
+          "name": "ESL Challenger Melbourne '23 Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 332
+          },
+          "name": "Elisa Invitational Winter 2023 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 333
+          },
+          "name": "RES EE Masters Spring '23 - BLAST Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 336
+          },
+          "name": "CCT North Europe Series 4 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 337
+          },
+          "name": "Pelaajat Nordic Masters Spring '23 - BLAST Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 339
+          },
+          "name": "CCT West Europe Series 2 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 320
+          },
+          "name": "ESL Challenger League S43 Europe",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 340
+          },
+          "name": "ESL Challenger League S44 Europe Relegation",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 344
+          },
+          "name": "IEM Dallas 2023 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 341
+          },
+          "name": "BetBoom Playlist Urbanistic 2023 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 348
+          },
+          "name": "BLAST.tv Paris Major 2023 Asia RMR",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 353
+          },
+          "name": "ESL Challenger Melbourne 2023",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 354
+          },
+          "name": "BetBoom Playlist Freedom 2023 - Swiss",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 358
+          },
+          "name": "CCT 2023 Online Finals 1",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 360
+          },
+          "name": "BetBoom Playlist Freedom 2023 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 361
+          },
+          "name": "ESL Impact League Season 3 Finals",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 363
+          },
+          "name": "Elisa Invitational Spring 2023 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 364
+          },
+          "name": "CCT North Europe Series 5 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 365
+          },
+          "name": "CCT West Europe Series 4 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 366
+          },
+          "name": "ESL Challenger Katowice 2023",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 370
+          },
+          "name": "CCT North Europe Series 6 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 371
+          },
+          "name": "CCT 2023 Online Finals 2",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 373
+          },
+          "name": "Thunderpick World Championship '23 EU S1",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 375
+          },
+          "name": "CCT Central Europe Series 7 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 376
+          },
+          "name": "CCT East Europe Series 1 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 378
+          },
+          "name": "IEM Sydney 2023 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 377
+          },
+          "name": "Pinnacle Cup V Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 380
+          },
+          "name": "CCT North Europe Series 7 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 379
+          },
+          "name": "PARI Dunav Party 2023",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 384
+          },
+          "name": "RES Western European Masters Fall '23 - BLAST Qual",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 387
+          },
+          "name": "Pelaajat Nordic Masters Fall '23 - BLAST Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 386
+          },
+          "name": "RES Eastern European Masters Fall '23 - BLAST Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 388
+          },
+          "name": "Thunderpick World Championship '23 EU S2",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 390
+          },
+          "name": "\u0421\u0421T 2023 Online Finals 3",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 392
+          },
+          "name": "\u0421\u0421T East Europe Series 2 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 395
+          },
+          "name": "ESL Challenger J\u00f6nk\u00f6ping '23 EU Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 397
+          },
+          "name": "SteelSeries Invitational CS2 Legends 2023",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 402
+          },
+          "name": "CCT Central Europe Series 8 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 405
+          },
+          "name": "CCT 2023 Online Finals 4",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 407
+          },
+          "name": "PARI Please 2023",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 403
+          },
+          "name": "BetBoom Dacha 2023 Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 409
+          },
+          "name": "ESL Challenger J\u00f6nk\u00f6ping 2023",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 411
+          },
+          "name": "CCT 2023 Online Finals 5",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 413
+          },
+          "name": "ESL Impact League Season 4",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 415
+          },
+          "name": "YaLLa Compass Fall 2023",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 416
+          },
+          "name": "ESL Challenger Atlanta 2023",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": []
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 421
+          },
+          "name": "IEM Chengdu 2024 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 423
+          },
+          "name": "RES Western European Masters Spring '24 - BLAST Qual",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 427
+          },
+          "name": "Asia RMR - PGL CS2 Major Copenhagen 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 428
+          },
+          "name": "RES Regional Series 1 Europe ",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 432
+          },
+          "name": "Skyesports Masters 2024 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 436
+          },
+          "name": "ESL Challenger J\u00f6nk\u00f6ping 2024 Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 437
+          },
+          "name": "BetBoom Dacha 2024 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 438
+          },
+          "name": "Skyesports Masters 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 443
+          },
+          "name": "Global Esports Tour Rio 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 440
+          },
+          "name": "Thunderpick WC EU Closed Qualifier 1",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 441
+          },
+          "name": "RES Regional Series 2 Europe",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 445
+          },
+          "name": "ESL Challenger Melbourne 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 444
+          },
+          "name": "CCT S2 Europe Series 1 - Group Stage",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 447
+          },
+          "name": "YaLLa Compass Spring 2024 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 448
+          },
+          "name": "Hellcase Cup 9",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 450
+          },
+          "name": "CCT S2 Europe Series 2 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 452
+          },
+          "name": "Elisa Invitational Spring 2024 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 454
+          },
+          "name": "RES Regional Series 4 Europe",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 453
+          },
+          "name": "CCT Global Finals 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 456
+          },
+          "name": "MESA Nomadic Masters Spring 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 457
+          },
+          "name": "RES European Masters 1 Fall 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 458
+          },
+          "name": "ESL Impact League S5 Finals",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 461
+          },
+          "name": "RES European Masters 2 Fall 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 463
+          },
+          "name": "ESL Challenger J\u00f6nk\u00f6ping 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 464
+          },
+          "name": "FiReLEAGUE 2024 Global Finals",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 466
+          },
+          "name": "Skyesports Championship 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 472
+          },
+          "name": "BetBoom Dacha Belgrade S2 Play-in",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 476
+          },
+          "name": "Elisa Invitational Fall 2024 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 478
+          },
+          "name": "CCT S2 Europe Series 11 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 481
+          },
+          "name": "YaLLa Compass Summer 2024 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 482
+          },
+          "name": "CCT S2 Europe Series 12 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 485
+          },
+          "name": "CCT S2 Europe Series 13 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 483
+          },
+          "name": "ESL Challenger Atlanta 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 486
+          },
+          "name": "CCT S2 Europe Series 14 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 489
+          },
+          "name": "RES Regional Championship 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 488
+          },
+          "name": "Elisa Masters Espoo 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 490
+          },
+          "name": "Thunderpick World Championship 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 493
+          },
+          "name": "Thunderpick World Championship 2024 Finals",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 495
+          },
+          "name": "Asia RMR - Perfect World Shanghai Major 2024",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 501
+          },
+          "name": "CCT S2 Europe Series 15 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 502
+          },
+          "name": "BLAST Bounty 2025 Season 1 - Online part",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 505
+          },
+          "name": "CCT S2 Europe Series 16 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 508
+          },
+          "name": "RES Showdown 1: BLAST Premier Rising Event",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 510
+          },
+          "name": "CCT S2 Europe Series 17 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 512
+          },
+          "name": "CCT S2 Europe Series 18 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 513
+          },
+          "name": "Stage 1 - ESL Pro League Season 21",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 515
+          },
+          "name": "CCT S2 Europe Series 19 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 517
+          },
+          "name": "CCT S2 Europe Series 20 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 520
+          },
+          "name": "PGL Astana 2025 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 521
+          },
+          "name": "YaLLa Compass Qatar 2025 Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 526
+          },
+          "name": "South America MRQ - BLAST.tv Austin Major 2025",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 525
+          },
+          "name": "North America MRQ - BLAST.tv Austin Major 2025",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 527
+          },
+          "name": "YaLLa Compass Spring 2025 ",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 529
+          },
+          "name": "CCT Global Finals 2025",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 532
+          },
+          "name": "MESA Nomadic Masters Spring 2025",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 536
+          },
+          "name": "CCT S3 Europe Series 1 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 540
+          },
+          "name": "Galaxy Battle 2025 Phase 2 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 541
+          },
+          "name": "CCT S3 Europe Series 2 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 545
+          },
+          "name": "CCT S3 Europe Series 3 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 546
+          },
+          "name": "Exort The Proving Grounds Season 2 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 547
+          },
+          "name": "FISSURE Playground 1",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 550
+          },
+          "name": "RES Showdown 2: BLAST Premier Rising Event",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 553
+          },
+          "name": "CCT S3 Europe Series 4 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 552
+          },
+          "name": "BLAST Bounty 2025 Season 2 - Online part",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 554
+          },
+          "name": "CS Asia Championships 2025 Europe Open Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 556
+          },
+          "name": "StarLadder StarSeries Budapest Europe Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 558
+          },
+          "name": "Exort The Proving Grounds Season 3 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 560
+          },
+          "name": "ESL Challenger League Season 50 - Europe Cup 1",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 562
+          },
+          "name": "Thunderpick World Championship '25 - Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 564
+          },
+          "name": "StarLadder StarSeries Fall 2025 ",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 566
+          },
+          "name": "Exort The Proving Grounds Season 4 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 567
+          },
+          "name": "Majestic LanDaLan 3",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 570
+          },
+          "name": "Galaxy Battle 2025 Phase 4 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 573
+          },
+          "name": "Exort The Proving Grounds Season 5 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 575
+          },
+          "name": "CS Asia Championships 2025 ",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 579
+          },
+          "name": "Red Bull GIBAWAY JOURNEY 2025",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 582
+          },
+          "name": "CCT S3 Europe Series 11 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 585
+          },
+          "name": "Galaxy Battle 2025 Phase 5 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 587
+          },
+          "name": "CCT S3 Europe Series 12 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 588
+          },
+          "name": "BLAST Bounty 2026 Season 1 - Online part",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 590
+          },
+          "name": "IEM Rio 2026 Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 593
+          },
+          "name": "CCT S3 Europe Series 13 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 592
+          },
+          "name": "FiRe CONTER Season 1",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 597
+          },
+          "name": "Roman Imperium Cup V",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 599
+          },
+          "name": "Digital Crusade Draculan S5 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 600
+          },
+          "name": "PGL Bucharest 2026 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 601
+          },
+          "name": "Stage 1 - ESL Pro League Season 23",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 602
+          },
+          "name": "Stake Ranked Episode 1 Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 605
+          },
+          "name": "HyperX Roman Imperium Cup VI",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 608
+          },
+          "name": "BC Game Masters Championship S1 - Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 610
+          },
+          "name": "FERJEE In House 2026",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 612
+          },
+          "name": "Radio Popular Roman Imperium Cup VII",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 613
+          },
+          "name": "Digital Crusade Draculan S6 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 614
+          },
+          "name": "Stake Ranked Episode 1",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 615
+          },
+          "name": "MPKBK CIS LAN Season 4",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 619
+          },
+          "name": "CCT Global Finals 2026",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 620
+          },
+          "name": "NODWIN Clutch Series 7 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 625
+          },
+          "name": "CCT 2026 Europe Series 1 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 624
+          },
+          "name": "Hero Esports Asian Champions League 2026",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 628
+          },
+          "name": "NODWIN Clutch Series 8 Playoffs",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 630
+          },
+          "name": "Stake Ranked Episode 2",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": []
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 635
+          },
+          "name": "Group Stage - XSE Pro League 2026",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 637
+          },
+          "name": "RES Showdown 4 Europe: BLAST Premier Rising Event",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 636
+          },
+          "name": "Playoffs - XSE Pro League 2026",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 638
+          },
+          "name": "Stake Ranked Episode 3",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 639
+          },
+          "name": "BLAST Bounty 2026 Season 2 - Online part",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 640
+          },
+          "name": "StarLadder StarSeries Fall 2026 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 642
+          },
+          "name": "Esports World Cup 2026 Open Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "fantasyId": {
+            "id": 646
+          },
+          "name": "IEM Beijing 2026 Asia Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 647
+          },
+          "name": "IEM Beijing 2026 Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 649
+          },
+          "name": "Stake Ranked Episode 4 Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.FinishedEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 651
+          },
+          "name": "PGL Masters Bucharest 2026 Europe Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.LiveEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 652
+          },
+          "name": "PGL Masters Bucharest 2026 South America Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.LiveEvent"
+          }
+        },
+        {
+          "fantasyId": {
+            "id": 653
+          },
+          "name": "Thunderpick World Championship 2026 Closed Qualifier",
+          "enabled": true,
+          "state": {
+            "type": "org.hltv.jscommon.fantasy.dto.EventState.LiveEvent"
+          }
+        }
+      ]
+    }
+  ]
+}

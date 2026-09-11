@@ -1,0 +1,591 @@
+{
+  "topMenuData": {
+    "fantasyId": {
+      "id": 650
+    }
+  },
+  "isGameStarted": true,
+  "gameFinished": false,
+  "eventName": "FISSURE Playground 3",
+  "bestValueForMoneyPlayers": [
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 20357
+        },
+        "name": "d1Ledez",
+        "team": {
+          "name": "BETBOOM"
+        },
+        "stats": {
+          "rating": "1.00",
+          "ctRating": "1.11",
+          "tRating": "0.90",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.00",
+          "hsPercentage": "63.8%",
+          "entryFragsPerRound": "6.6%",
+          "cluthesPerRound": "1.2%",
+          "supportRounds": "18.7%",
+          "multiKillRounds": "16.6%",
+          "dpr": "0.69"
+        }
+      },
+      "price": 201000
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 11840
+        },
+        "name": "Boombl4",
+        "team": {
+          "name": "BETBOOM"
+        },
+        "stats": {
+          "rating": "0.90",
+          "ctRating": "0.97",
+          "tRating": "0.82",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.01",
+          "hsPercentage": "41.8%",
+          "entryFragsPerRound": "6.8%",
+          "cluthesPerRound": "1.3%",
+          "supportRounds": "22.2%",
+          "multiKillRounds": "14.3%",
+          "dpr": "0.69"
+        }
+      },
+      "price": 184000
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 15698
+        },
+        "name": "dumau",
+        "team": {
+          "name": "Legacy"
+        },
+        "stats": {
+          "rating": "1.10",
+          "ctRating": "1.04",
+          "tRating": "1.17",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.00",
+          "hsPercentage": "44.5%",
+          "entryFragsPerRound": "15.0%",
+          "cluthesPerRound": "0.3%",
+          "supportRounds": "21.9%",
+          "multiKillRounds": "17.2%",
+          "dpr": "0.69"
+        }
+      },
+      "price": 220000
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 19045
+        },
+        "name": "latto",
+        "team": {
+          "name": "Legacy"
+        },
+        "stats": {
+          "rating": "1.13",
+          "ctRating": "1.14",
+          "tRating": "1.11",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.01",
+          "hsPercentage": "50.0%",
+          "entryFragsPerRound": "8.9%",
+          "cluthesPerRound": "1.3%",
+          "supportRounds": "23.8%",
+          "multiKillRounds": "18.5%",
+          "dpr": "0.60"
+        }
+      },
+      "price": 221000
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 19869
+        },
+        "name": "try",
+        "team": {
+          "name": "Legacy"
+        },
+        "stats": {
+          "rating": "1.20",
+          "ctRating": "1.17",
+          "tRating": "1.22",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.39",
+          "hsPercentage": "36.2%",
+          "entryFragsPerRound": "12.9%",
+          "cluthesPerRound": "1.5%",
+          "supportRounds": "19.7%",
+          "multiKillRounds": "21.2%",
+          "dpr": "0.58"
+        }
+      },
+      "price": 219000
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 21667
+        },
+        "name": "Magnojez",
+        "team": {
+          "name": "BETBOOM"
+        },
+        "stats": {
+          "rating": "1.23",
+          "ctRating": "1.29",
+          "tRating": "1.17",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.02",
+          "hsPercentage": "52.8%",
+          "entryFragsPerRound": "14.8%",
+          "cluthesPerRound": "1.0%",
+          "supportRounds": "16.7%",
+          "multiKillRounds": "20.1%",
+          "dpr": "0.70"
+        }
+      },
+      "price": 220000
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 19686
+        },
+        "name": "n1ssim",
+        "team": {
+          "name": "Legacy"
+        },
+        "stats": {
+          "rating": "0.91",
+          "ctRating": "0.90",
+          "tRating": "0.92",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.00",
+          "hsPercentage": "56.7%",
+          "entryFragsPerRound": "5.7%",
+          "cluthesPerRound": "1.0%",
+          "supportRounds": "26.2%",
+          "multiKillRounds": "12.6%",
+          "dpr": "0.61"
+        }
+      },
+      "price": 201000
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 12521
+        },
+        "name": "arT",
+        "team": {
+          "name": "Legacy"
+        },
+        "stats": {
+          "rating": "0.87",
+          "ctRating": "0.99",
+          "tRating": "0.76",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.03",
+          "hsPercentage": "51.0%",
+          "entryFragsPerRound": "10.6%",
+          "cluthesPerRound": "1.3%",
+          "supportRounds": "21.8%",
+          "multiKillRounds": "11.3%",
+          "dpr": "0.69"
+        }
+      },
+      "price": 191000
+    }
+  ],
+  "mostPickedPlayers": [
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 22383
+        },
+        "name": "jcobbb",
+        "team": {
+          "name": "FaZe"
+        },
+        "stats": {
+          "rating": "1.09",
+          "ctRating": "1.02",
+          "tRating": "1.16",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.01",
+          "hsPercentage": "69.0%",
+          "entryFragsPerRound": "12.4%",
+          "cluthesPerRound": "1.2%",
+          "supportRounds": "19.2%",
+          "multiKillRounds": "15.1%",
+          "dpr": "0.65"
+        }
+      }
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 2023
+        },
+        "name": "FalleN",
+        "team": {
+          "name": "FURIA"
+        },
+        "stats": {
+          "rating": "0.93",
+          "ctRating": "0.97",
+          "tRating": "0.90",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.03",
+          "hsPercentage": "53.6%",
+          "entryFragsPerRound": "8.4%",
+          "cluthesPerRound": "0.9%",
+          "supportRounds": "24.3%",
+          "multiKillRounds": "14.3%",
+          "dpr": "0.65"
+        }
+      }
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 3972
+        },
+        "name": "huNter-",
+        "team": {
+          "name": "G2"
+        },
+        "stats": {
+          "rating": "1.03",
+          "ctRating": "1.13",
+          "tRating": "0.94",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.00",
+          "hsPercentage": "54.4%",
+          "entryFragsPerRound": "7.5%",
+          "cluthesPerRound": "1.4%",
+          "supportRounds": "21.6%",
+          "multiKillRounds": "16.4%",
+          "dpr": "0.65"
+        }
+      }
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 21972
+        },
+        "name": "Neityu",
+        "team": {
+          "name": "FaZe"
+        },
+        "stats": {
+          "rating": "0.99",
+          "ctRating": "1.01",
+          "tRating": "0.97",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.00",
+          "hsPercentage": "54.9%",
+          "entryFragsPerRound": "6.9%",
+          "cluthesPerRound": "1.9%",
+          "supportRounds": "24.4%",
+          "multiKillRounds": "14.9%",
+          "dpr": "0.63"
+        }
+      }
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 19869
+        },
+        "name": "try",
+        "team": {
+          "name": "Legacy"
+        },
+        "stats": {
+          "rating": "1.20",
+          "ctRating": "1.17",
+          "tRating": "1.22",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.39",
+          "hsPercentage": "36.2%",
+          "entryFragsPerRound": "12.9%",
+          "cluthesPerRound": "1.5%",
+          "supportRounds": "19.7%",
+          "multiKillRounds": "21.2%",
+          "dpr": "0.58"
+        }
+      }
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 12521
+        },
+        "name": "arT",
+        "team": {
+          "name": "Legacy"
+        },
+        "stats": {
+          "rating": "0.87",
+          "ctRating": "0.99",
+          "tRating": "0.76",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.03",
+          "hsPercentage": "51.0%",
+          "entryFragsPerRound": "10.6%",
+          "cluthesPerRound": "1.3%",
+          "supportRounds": "21.8%",
+          "multiKillRounds": "11.3%",
+          "dpr": "0.69"
+        }
+      }
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 20425
+        },
+        "name": "r1nkle",
+        "team": {
+          "name": "G2"
+        },
+        "stats": {
+          "rating": "1.04",
+          "ctRating": "1.17",
+          "tRating": "0.94",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.37",
+          "hsPercentage": "30.3%",
+          "entryFragsPerRound": "10.9%",
+          "cluthesPerRound": "1.7%",
+          "supportRounds": "25.6%",
+          "multiKillRounds": "16.0%",
+          "dpr": "0.55"
+        }
+      }
+    },
+    {
+      "player": {
+        "fantasyPlayerId": {
+          "playerId": 22866
+        },
+        "name": "JBOEN",
+        "team": {
+          "name": "FaZe"
+        },
+        "stats": {
+          "rating": "1.12",
+          "ctRating": "1.12",
+          "tRating": "1.12",
+          "ratingVersionLabel": "Rating 3.0",
+          "awpKillsPerRound": "0.37",
+          "hsPercentage": "36.8%",
+          "entryFragsPerRound": "12.1%",
+          "cluthesPerRound": "1.7%",
+          "supportRounds": "19.7%",
+          "multiKillRounds": "18.9%",
+          "dpr": "0.56"
+        }
+      }
+    }
+  ],
+  "topRatedPlayers": [
+    {
+      "fantasyPlayerId": {
+        "playerId": 19645
+      },
+      "name": "JamYoung",
+      "team": {
+        "name": "TYLOO"
+      },
+      "stats": {
+        "rating": "1.26",
+        "ctRating": "1.29",
+        "tRating": "1.24",
+        "ratingVersionLabel": "Rating 3.0",
+        "awpKillsPerRound": "0.00",
+        "hsPercentage": "60.2%",
+        "entryFragsPerRound": "15.0%",
+        "cluthesPerRound": "1.4%",
+        "supportRounds": "24.7%",
+        "multiKillRounds": "18.0%",
+        "dpr": "0.61"
+      }
+    },
+    {
+      "fantasyPlayerId": {
+        "playerId": 21037
+      },
+      "name": "insani",
+      "team": {
+        "name": "MIBR"
+      },
+      "stats": {
+        "rating": "1.24",
+        "ctRating": "1.36",
+        "tRating": "1.12",
+        "ratingVersionLabel": "Rating 3.0",
+        "awpKillsPerRound": "0.00",
+        "hsPercentage": "55.9%",
+        "entryFragsPerRound": "15.2%",
+        "cluthesPerRound": "0.9%",
+        "supportRounds": "17.6%",
+        "multiKillRounds": "21.8%",
+        "dpr": "0.70"
+      }
+    },
+    {
+      "fantasyPlayerId": {
+        "playerId": 21667
+      },
+      "name": "Magnojez",
+      "team": {
+        "name": "BETBOOM"
+      },
+      "stats": {
+        "rating": "1.23",
+        "ctRating": "1.29",
+        "tRating": "1.17",
+        "ratingVersionLabel": "Rating 3.0",
+        "awpKillsPerRound": "0.02",
+        "hsPercentage": "52.8%",
+        "entryFragsPerRound": "14.8%",
+        "cluthesPerRound": "1.0%",
+        "supportRounds": "16.7%",
+        "multiKillRounds": "20.1%",
+        "dpr": "0.70"
+      }
+    },
+    {
+      "fantasyPlayerId": {
+        "playerId": 16487
+      },
+      "name": "eraa",
+      "team": {
+        "name": "Alliance"
+      },
+      "stats": {
+        "rating": "1.20",
+        "ctRating": "1.16",
+        "tRating": "1.23",
+        "ratingVersionLabel": "Rating 3.0",
+        "awpKillsPerRound": "0.38",
+        "hsPercentage": "33.3%",
+        "entryFragsPerRound": "12.2%",
+        "cluthesPerRound": "2.2%",
+        "supportRounds": "18.2%",
+        "multiKillRounds": "20.6%",
+        "dpr": "0.59"
+      }
+    },
+    {
+      "fantasyPlayerId": {
+        "playerId": 19869
+      },
+      "name": "try",
+      "team": {
+        "name": "Legacy"
+      },
+      "stats": {
+        "rating": "1.20",
+        "ctRating": "1.17",
+        "tRating": "1.22",
+        "ratingVersionLabel": "Rating 3.0",
+        "awpKillsPerRound": "0.39",
+        "hsPercentage": "36.2%",
+        "entryFragsPerRound": "12.9%",
+        "cluthesPerRound": "1.5%",
+        "supportRounds": "19.7%",
+        "multiKillRounds": "21.2%",
+        "dpr": "0.58"
+      }
+    },
+    {
+      "fantasyPlayerId": {
+        "playerId": 15165
+      },
+      "name": "blameF",
+      "team": {
+        "name": "BIG"
+      },
+      "stats": {
+        "rating": "1.17",
+        "ctRating": "1.24",
+        "tRating": "1.10",
+        "ratingVersionLabel": "Rating 3.0",
+        "awpKillsPerRound": "0.00",
+        "hsPercentage": "45.6%",
+        "entryFragsPerRound": "10.4%",
+        "cluthesPerRound": "1.8%",
+        "supportRounds": "22.6%",
+        "multiKillRounds": "17.7%",
+        "dpr": "0.59"
+      }
+    },
+    {
+      "fantasyPlayerId": {
+        "playerId": 20304
+      },
+      "name": "Staehr",
+      "team": {
+        "name": "Astralis"
+      },
+      "stats": {
+        "rating": "1.17",
+        "ctRating": "1.21",
+        "tRating": "1.13",
+        "ratingVersionLabel": "Rating 3.0",
+        "awpKillsPerRound": "0.00",
+        "hsPercentage": "56.3%",
+        "entryFragsPerRound": "13.9%",
+        "cluthesPerRound": "1.1%",
+        "supportRounds": "20.5%",
+        "multiKillRounds": "18.5%",
+        "dpr": "0.66"
+      }
+    },
+    {
+      "fantasyPlayerId": {
+        "playerId": 15631
+      },
+      "name": "KSCERATO",
+      "team": {
+        "name": "FURIA"
+      },
+      "stats": {
+        "rating": "1.17",
+        "ctRating": "1.12",
+        "tRating": "1.21",
+        "ratingVersionLabel": "Rating 3.0",
+        "awpKillsPerRound": "0.01",
+        "hsPercentage": "51.3%",
+        "entryFragsPerRound": "9.4%",
+        "cluthesPerRound": "1.6%",
+        "supportRounds": "23.5%",
+        "multiKillRounds": "17.6%",
+        "dpr": "0.61"
+      }
+    }
+  ],
+  "roleFailPoints": -2,
+  "roleSmallBonus": 2,
+  "roleMaxBonus": 5,
+  "failBoost": 0,
+  "succeedBoost": 5,
+  "teamWonPoints": 6,
+  "teamLostPoints": -3
+}

@@ -1,0 +1,12 @@
+{
+  "observed_on": "2026-09-10",
+  "source": "https://www.hltv.org/fantasy",
+  "method": "Chrome UI via Computer Use",
+  "upcoming_games_displayed": false,
+  "events": [
+    {"id": 650, "name": "FISSURE Playground 3", "category": "season", "status": "live", "entry_open": null, "url": "https://www.hltv.org/fantasy/650/gameredirect"},
+    {"id": 651, "name": "PGL Masters Bucharest 2026 Europe Closed Qualifier", "category": "partner", "status": "live", "entry_open": null, "url": "https://www.hltv.org/fantasy/651/gameredirect"},
+    {"id": 652, "name": "PGL Masters Bucharest 2026 South America Closed Qualifier", "category": "partner", "status": "live", "entry_open": null, "url": "https://www.hltv.org/fantasy/652/gameredirect"},
+    {"id": 653, "name": "Thunderpick World Championship 2026 Closed Qualifier", "category": "partner", "status": "live", "entry_open": null, "url": "https://www.hltv.org/fantasy/653/gameredirect"}
+  ]
+}
